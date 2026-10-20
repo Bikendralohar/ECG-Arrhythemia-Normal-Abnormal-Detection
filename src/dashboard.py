@@ -35,7 +35,7 @@ from feature_extraction import load_record
 from qrs_detector import match_beats
 from realtime_pipeline import RealtimeBeatStream
 
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "https://ecg-arrhythmia-api-76g6.onrender.com/predict"
 
 MAX_ROWS_SHOWN = 10
 MAX_ALERTS_SHOWN = 5
