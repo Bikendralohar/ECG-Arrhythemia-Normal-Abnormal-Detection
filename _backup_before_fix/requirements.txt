@@ -1,0 +1,11 @@
+wfdb
+numpy
+pandas
+scikit-learn
+xgboost
+matplotlib
+joblib
+fastapi
+uvicorn
+streamlit
+requests
